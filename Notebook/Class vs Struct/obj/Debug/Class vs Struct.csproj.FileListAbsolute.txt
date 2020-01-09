@@ -1,0 +1,6 @@
+C:\Users\HaGrIL\Source\Repos\Notebook\Class vs Struct\bin\Debug\Class vs Struct.exe.config
+C:\Users\HaGrIL\Source\Repos\Notebook\Class vs Struct\bin\Debug\Class vs Struct.exe
+C:\Users\HaGrIL\Source\Repos\Notebook\Class vs Struct\bin\Debug\Class vs Struct.pdb
+C:\Users\HaGrIL\Source\Repos\Notebook\Class vs Struct\obj\Debug\Class vs Struct.csprojAssemblyReference.cache
+C:\Users\HaGrIL\Source\Repos\Notebook\Class vs Struct\obj\Debug\Class vs Struct.exe
+C:\Users\HaGrIL\Source\Repos\Notebook\Class vs Struct\obj\Debug\Class vs Struct.pdb

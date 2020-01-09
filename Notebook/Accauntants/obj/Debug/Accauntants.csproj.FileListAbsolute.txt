@@ -1,0 +1,5 @@
+C:\Users\HaGrIL\Source\Repos\Notebook\Accauntants\bin\Debug\Accauntants.exe.config
+C:\Users\HaGrIL\Source\Repos\Notebook\Accauntants\bin\Debug\Accauntants.exe
+C:\Users\HaGrIL\Source\Repos\Notebook\Accauntants\bin\Debug\Accauntants.pdb
+C:\Users\HaGrIL\Source\Repos\Notebook\Accauntants\obj\Debug\Accauntants.exe
+C:\Users\HaGrIL\Source\Repos\Notebook\Accauntants\obj\Debug\Accauntants.pdb

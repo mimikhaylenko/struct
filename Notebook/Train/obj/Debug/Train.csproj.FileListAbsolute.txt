@@ -1,0 +1,6 @@
+C:\Users\HaGrIL\Source\Repos\Notebook\Train\bin\Debug\Train.exe.config
+C:\Users\HaGrIL\Source\Repos\Notebook\Train\bin\Debug\Train.exe
+C:\Users\HaGrIL\Source\Repos\Notebook\Train\bin\Debug\Train.pdb
+C:\Users\HaGrIL\Source\Repos\Notebook\Train\obj\Debug\Train.csprojAssemblyReference.cache
+C:\Users\HaGrIL\Source\Repos\Notebook\Train\obj\Debug\Train.exe
+C:\Users\HaGrIL\Source\Repos\Notebook\Train\obj\Debug\Train.pdb

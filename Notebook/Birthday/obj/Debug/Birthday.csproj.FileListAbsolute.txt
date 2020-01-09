@@ -1,0 +1,6 @@
+C:\Users\HaGrIL\Source\Repos\Notebook\Birthday\bin\Debug\Birthday.exe.config
+C:\Users\HaGrIL\Source\Repos\Notebook\Birthday\bin\Debug\Birthday.exe
+C:\Users\HaGrIL\Source\Repos\Notebook\Birthday\bin\Debug\Birthday.pdb
+C:\Users\HaGrIL\Source\Repos\Notebook\Birthday\obj\Debug\Birthday.csprojAssemblyReference.cache
+C:\Users\HaGrIL\Source\Repos\Notebook\Birthday\obj\Debug\Birthday.exe
+C:\Users\HaGrIL\Source\Repos\Notebook\Birthday\obj\Debug\Birthday.pdb

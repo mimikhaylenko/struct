@@ -1,0 +1,6 @@
+C:\Users\HaGrIL\Source\Repos\Notebook\Static Class Print\bin\Debug\Static Class Print.exe.config
+C:\Users\HaGrIL\Source\Repos\Notebook\Static Class Print\bin\Debug\Static Class Print.exe
+C:\Users\HaGrIL\Source\Repos\Notebook\Static Class Print\bin\Debug\Static Class Print.pdb
+C:\Users\HaGrIL\Source\Repos\Notebook\Static Class Print\obj\Debug\Static Class Print.csprojAssemblyReference.cache
+C:\Users\HaGrIL\Source\Repos\Notebook\Static Class Print\obj\Debug\Static Class Print.exe
+C:\Users\HaGrIL\Source\Repos\Notebook\Static Class Print\obj\Debug\Static Class Print.pdb

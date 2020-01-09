@@ -1,0 +1,6 @@
+C:\Users\HaGrIL\Source\Repos\Notebook\Struct\obj\Debug\Struct.csprojAssemblyReference.cache
+C:\Users\HaGrIL\Source\Repos\Notebook\Struct\bin\Debug\Struct.exe.config
+C:\Users\HaGrIL\Source\Repos\Notebook\Struct\bin\Debug\Struct.exe
+C:\Users\HaGrIL\Source\Repos\Notebook\Struct\bin\Debug\Struct.pdb
+C:\Users\HaGrIL\Source\Repos\Notebook\Struct\obj\Debug\Struct.exe
+C:\Users\HaGrIL\Source\Repos\Notebook\Struct\obj\Debug\Struct.pdb
